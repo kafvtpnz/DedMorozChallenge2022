@@ -5,7 +5,7 @@
 
 Дед Мороз с помощниками весь год трудились над созданием игрушек для детей, у них получилось 70 685 034 различных предметов трех категорий.
 
-<img src="./DedMorozChallenge2022/blob/master/blob/master/raw/warehouse.jpg" width="128"/>
+<img src="./blob/master/raw/warehouse.jpg" width="128"/>
 
 ![Alt text](https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/raw/warehouse.jpg?raw=true)
 
