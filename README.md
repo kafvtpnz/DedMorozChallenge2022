@@ -12,7 +12,7 @@
 3 Универсальные игрушки - Поп ит, Пластилин, Слайм, Набор "Выращиваем кристаллы", Книга, Фломастеры.
 
 Коичество игрушек ограничено, каждая игрушка имеет определенную стоимость и вес. 
-Указанные характеристики содержатся в файле https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/raw/toys.tsv
+Указанные характеристики содержатся в файле https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/toys.tsv
 
 Теперь из этих игрушек необходимо сформировать подарки для каждого из детей. Такой подарок должен отвечать определнным требованиям:
 
@@ -20,7 +20,7 @@
 2 В подарках для девочек не должно быть игрушек для мальчиков.
 3 Вес подарка не должен превышать 1000 гр.
 
-![Alt text](https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/raw/gift.png?raw=true)
+![Alt text](https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/raw/Gift.png?raw=true)
 
 
 Ваша задача - сформировать 25 819 366 подарков, отвечающих требованиям (см. выше), имеющих максимальную суммарную стоимость.
