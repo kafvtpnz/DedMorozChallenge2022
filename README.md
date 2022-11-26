@@ -5,9 +5,8 @@
 
 Дед Мороз с помощниками весь год трудились над созданием игрушек для детей, у них получилось 70 685 034 различных предметов трех категорий.
 
-<p align="center">
-  <img src="/blob/master/blob/master/raw/warehouse.jpg)" width="350">
-</p>
+<img src="./DedMorozChallenge2022/blob/master/blob/master/raw/warehouse.jpg" width="128"/>
+
 ![Alt text](https://github.com/kafvtpnz/DedMorozChallenge2022/blob/master/blob/master/raw/warehouse.jpg?raw=true)
 
 1 Игрушки для мальчиков - Легковой автомобиль, Грузовик, Пожарная машина, Самолет, Вертолет на радиоуправлении, Конструктор "Радиолюбитель".
